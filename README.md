@@ -23,7 +23,7 @@ It open a new localhost that runs on a browser.
 ### About the Project
 This a web app which is based on data anlysis on automative industry dataset.
 ***
-This project majorly  describes on four major factors on anlysis of car in automative Industry
+This project majorly classified on four major categories on anlysis of car in automative Industry
 * Safety and security
 * Technology
 * Performance
@@ -53,9 +53,9 @@ For each factor there associated regarding sub factors in each section of handin
 * Saftey
 
 For Quality there is only few features.
-I made seperate query for each subfactor which you can choose.
-First while entering into the app,there is a side bar which you want choose the query.
-Downside of that there is column selections where you can choose the columns that to display on screen of a dataset.
+I made seperate query for each subfactor.
+First while entering into the app,there is a side bar Where you can two sections.
+Choosing the query and Downside of that there is column selections where you can choose the columns that to deploy on screen of a dataset.
 
 
 
